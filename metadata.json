@@ -1,0 +1,6 @@
+{
+  "name": "FlowPredict AI",
+  "description": "Интеллектуальная система управления денежными потоками. Прогнозирование ликвидности и автоматизированное предотвращение кассовых разрывов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
